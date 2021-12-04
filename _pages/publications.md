@@ -25,4 +25,4 @@ author_profile: true
   
 #. <ins> Elohim Fonseca dos Reis <\ins>, Mark Viney, Naoki Masuda
   *Network analysis of the immune state of mice*
-  [Scientific Reports, 11(1):1-8, 2021]
+  [Scientific Reports, 11(1):1-8, 2021](https://www.nature.com/articles/s41598-021-83139-7)
