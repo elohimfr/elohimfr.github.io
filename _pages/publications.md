@@ -15,7 +15,7 @@ author_profile: true
 # Papers
 
 1. <ins> Elohim Fonseca dos Reis </ins>, Naoki Masuda \
-  *Metapopulation models imply non-Poissonina statistics of interevent times* \
+  *Metapopulation models imply non-Poissonian statistics of interevent times* \
   Preprint: [arXiv:2106.10348](https://arxiv.org/abs/2106.10348)
   
 1. <ins> Elohim Fonseca dos Reis </ins>, Mark Viney, Naoki Masuda \
