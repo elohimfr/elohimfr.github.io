@@ -14,6 +14,6 @@ author_profile: true
 
 * **Introduction do Differential Equations** \
   Teaching assistant and grader \
-  SUNY at Buffalo, Department of Mathematics, Fall 2021 \
+  SUNY at Buffalo, Department of Mathematics, Fall 2021
   
 
