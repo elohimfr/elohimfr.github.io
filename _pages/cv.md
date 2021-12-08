@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download](https://elohimfr.github.io/files/cv_eng.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
