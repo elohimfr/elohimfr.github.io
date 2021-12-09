@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in mathematics working on network science. I focus on modeling analytically and computationally real systems using network science tools and statistical physics such as temporal networks, stochastic processes on networks, statistical physics, random walks, spreading dynamics, to name a few. Throughout my academic life, my projects involved different topics including neuroscience, immune systems, human dynamics, and opinion dynamics. 
+I am a PhD candidate in mathematics working on network science. I focus on modeling analytically and computationally real systems using network science tools and statistical physics such as temporal networks, stochastic processes on networks, spreading dynamics, and random walks, to name a few. Throughout my academic life, my projects involved different topics including neuroscience, immune systems, human dynamics, and opinion dynamics. In my last projects, I have focused on temporal networks and studied human face-to-face communication, and am currently investigating the temporal effects on opinion dynamics.
