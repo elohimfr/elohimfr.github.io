@@ -16,7 +16,7 @@ author_profile: true
 
 1. <ins> Elohim Fonseca dos Reis </ins>, Naoki Masuda \
   *Metapopulation models imply non-Poissonian statistics of interevent times* \
-  Preprint: [arXiv:2106.10348](https://arxiv.org/abs/2106.10348)
+  [Physical Review Research, 4(1):013050, 2022](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013050)
   
 1. <ins> Elohim Fonseca dos Reis </ins>, Mark Viney, Naoki Masuda \
   *Network analysis of the immune state of mice* \
